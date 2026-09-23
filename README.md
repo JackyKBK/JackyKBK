@@ -1,13 +1,13 @@
 ## 💫 About Me:
 
-🔭 **Currently working on** — full-stack development projects such as **Petclinic** and **Man Cave Barber Hub**. These are robust 3-6 month projects that utilize **Springboot, Microservices, Scrum, N-tier Architecture, Docker**. 
+🔭 **Currently working on** : full-stack development projects such as **Petclinic** and **Man Cave Barber Hub**. These are robust 3-6 month projects that utilize **Springboot, Microservices, Scrum, N-tier Architecture, Docker**. 
 I contribute to these projects in agile small teams, rotating through core industry roles (Product owner, Steward, Scrum of Scrums).
 
-🌱 **I’m currently learning** — Spring WebFlux, advanced Scrum methodologies, and deep-dive version control workflows
+🌱 **I’m currently learning** :— Spring WebFlux, advanced Scrum methodologies, and deep-dive version control workflows
 
-👯 **I’m looking to collaborate on** —  Full-stack enterprise web systems, IoT automation, data analysis, or game development projects.
+👯 **I’m looking to collaborate on** :  Full-stack enterprise web systems, IoT automation, data analysis, or game development projects.
 
-📫 **How to reach me** — [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jackykbk/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+📫 **How to reach me** : [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jackykbk/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ---
 
