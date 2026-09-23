@@ -3,7 +3,7 @@
 🔭 **Currently working on** : full-stack development projects such as **Petclinic** and **Man Cave Barber Hub**. These are robust 3-6 month projects that utilize **Springboot, Microservices, Scrum, N-tier Architecture, Docker**. 
 I contribute to these projects in agile small teams, rotating through core industry roles (Product owner, Steward, Scrum of Scrums).
 
-🌱 **I’m currently learning** :— Spring WebFlux, advanced Scrum methodologies, and deep-dive version control workflows
+🌱 **I’m currently learning** : Spring WebFlux, advanced Scrum methodologies, and deep-dive version control workflows
 
 👯 **I’m looking to collaborate on** :  Full-stack enterprise web systems, IoT automation, data analysis, or game development projects.
 
