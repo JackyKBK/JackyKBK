@@ -33,3 +33,33 @@ Networking (TCP/IP, DHCP, DNS, UDP, ARP)
 IoT & Robotics with Raspberry Pi
 
 Cloud & container orchestration
+
+## 💼 Featured Projects
+
+
+### Champlain Pet Clinic: 
+A modernized, multi-tier microservices application featuring an Angular employee portal and reactive Spring WebFlux backend.
+
+
+### Man Cave Barber Studio: 
+A 3-tier full-stack barbershop management platform supporting appointment booking, scheduling, and agile Scrum workflows.
+
+
+### RustBorn: 
+A roguelike deck-building card game featuring custom UI/UX screen routing, canvas integration, and tactical mana-management combat.
+<img width="870" height="486" alt="image" src="https://github.com/user-attachments/assets/af35bdd8-f538-4392-b803-d8552a6be942" />
+<img width="862" height="487" alt="image" src="https://github.com/user-attachments/assets/fb868b9d-9465-4e8e-bdc1-a1499398ae7f" />
+<img width="877" height="482" alt="image" src="https://github.com/user-attachments/assets/7398dbff-0738-4b68-bb03-60ff1983f6a4" />
+<img width="863" height="491" alt="image" src="https://github.com/user-attachments/assets/758e4047-16bc-4eb1-be6d-ecd016d1da7a" />
+<img width="862" height="486" alt="image" src="https://github.com/user-attachments/assets/462ad334-ff87-4c34-b6de-84ebc4a1c9e5" />
+<img width="855" height="477" alt="image" src="https://github.com/user-attachments/assets/e4cf6d64-5dd1-4e3c-a8d8-c4803a33aeb7" />
+
+### LikeAholic: 
+A full-stack social media web application built with a React frontend and a Java Spring Boot backend featuring dynamic CRUD and interactive likes.
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 205559" src="https://github.com/user-attachments/assets/ccff158c-361e-4c59-a0dc-7cfd0299bb6e" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 205541" src="https://github.com/user-attachments/assets/9fb286db-3e51-41e3-a059-9bc2f00a7d7b" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 205517" src="https://github.com/user-attachments/assets/6c297b48-03bd-41bb-a5f9-341ae35c2c99" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 205511" src="https://github.com/user-attachments/assets/10e46e54-af72-412e-878a-b53901de97bb" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 205452" src="https://github.com/user-attachments/assets/06e90594-4e21-4bb1-a285-8a22e7f22c91" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-23 205424" src="https://github.com/user-attachments/assets/77d74aa3-7d7a-48c3-be74-b722e73f845c" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 205726" src="https://github.com/user-attachments/assets/2a5202db-f518-45bf-9fcd-6655f489a213" />
