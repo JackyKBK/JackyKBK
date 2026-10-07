@@ -39,6 +39,7 @@ Cloud & container orchestration
 
 ### Champlain Pet Clinic: 
 <img width="1856" height="921" alt="image" src="https://github.com/user-attachments/assets/c6215b8b-c896-4257-805a-c059e32f6ec3" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-30 142737" src="https://github.com/user-attachments/assets/ba84525e-1555-4a01-9f0a-ebd4da78aa80" />
 
 
 ### Man Cave Barber Studio: 
