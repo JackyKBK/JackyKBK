@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-🔭 **Currently working on** : full-stack development projects such as **Petclinic** and **Man Cave Barber Hub**. These are robust 3-6 month projects that utilize **Springboot, Microservices, Scrum, N-tier Architecture, Docker**. 
+🔭 **Currently working on** : full-stack development projects such as **Petclinic** and **Man Cave Barber Hub**. The later is a robust 3-6 month project that utilizes **Springboot, Microservices, Scrum, N-tier Architecture, Docker**. 
 I contribute to these projects in agile small teams, rotating through core industry roles (Product owner, Steward, Scrum of Scrums).
 
 🌱 **I’m currently learning** : Spring WebFlux, advanced Scrum methodologies, and deep-dive version control workflows
@@ -40,6 +40,7 @@ Cloud & container orchestration
 ### Champlain Pet Clinic: 
 <img width="1856" height="921" alt="image" src="https://github.com/user-attachments/assets/c6215b8b-c896-4257-805a-c059e32f6ec3" />
 <img width="1920" height="1020" alt="Screenshot 2026-09-30 142737" src="https://github.com/user-attachments/assets/ba84525e-1555-4a01-9f0a-ebd4da78aa80" />
+<img width="1867" height="917" alt="Screenshot 2026-10-14 103344" src="https://github.com/user-attachments/assets/dd646de0-fdaa-40a4-9f01-c1746ad4538f" />
 
 
 ### Man Cave Barber Studio: 
